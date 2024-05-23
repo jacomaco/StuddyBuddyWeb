@@ -40,3 +40,9 @@ body, html {
     font-size: 2rem;
 }
 
+/* styles.css */
+.bordered-element {
+    border: 1px solid black; /* 1px solid border in black color */
+}
+
+
